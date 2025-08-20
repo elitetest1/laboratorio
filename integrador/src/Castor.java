@@ -12,7 +12,7 @@ public class Castor {
     }
 
     public void nadar() {
-        System.out.println("Nadando a velocidad de " + velocidad + " km/h");
+        System.out.println("Nadando a velocidad de " + velocidad + " km/h ");
     }
 
     public void tocarGuitarra() {
